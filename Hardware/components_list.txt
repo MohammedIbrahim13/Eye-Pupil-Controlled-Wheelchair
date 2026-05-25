@@ -1,0 +1,10 @@
+Hardware Components Used
+
+1. Raspberry Pi 4 Model B
+2. L298N Motor Driver
+3. Webcam
+4. 12V 100W DC Motors
+5. Battery
+6. Jumper Wires
+7. Wheels
+8. Chain and Sprocket
